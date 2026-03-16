@@ -39,7 +39,7 @@ Anyone is welcome to pick these up!
 You will need the **ytmdesktop2 client**:  
 https://github.com/Venipa/ytmdesktop2
 
-Drop the theme files into the appropriate theme directory following their documentation.
+Drop the theme files into the appropriate theme directory following their [documentation](https://github.com/Venipa/ytmdesktop2/wiki/Custom-Themes).
 
 ---
 
